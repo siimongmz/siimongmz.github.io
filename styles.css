@@ -1,0 +1,169 @@
+*{
+
+    scrollbar-width: 0%;
+
+}
+
+
+.titulo{
+
+    font-size: 300%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    margin-bottom: 1%;
+    
+
+}
+
+.subtitulo{
+
+    font-size: 80%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgray;
+    margin-bottom: 3%;
+
+}
+
+html{
+
+    background-color: black;
+
+}
+
+.planetas{
+
+    margin-left: 5%;
+    margin-bottom: 10%;
+
+}
+
+    .mercurio{
+
+        width: 20%;
+        margin-right: 3%;
+        margin-left: 2%;
+        transition: 2s;
+
+    }
+
+    .mercurio:hover{
+
+        
+        transform:rotate(360deg)
+
+
+    }
+
+    .venus{
+
+        width: 20%;
+        margin-right: 3%;
+        transition: 2s;
+
+    }
+
+    .venus:hover{
+
+        
+        transform:rotate(360deg)
+
+
+    }
+    .tierra{
+
+        width: 20%;
+        margin-right: 3%;
+        transition: 2s;
+
+    }
+
+    .tierra:hover{
+
+        
+        transform:rotate(360deg)
+
+
+    }
+
+    .marte{
+
+        width: 20%;
+        margin-right: 3%;
+        transition: 2s;
+
+    }
+
+    .marte:hover{
+
+        
+        transform:rotate(360deg)
+
+
+    }
+
+    .jupiter{
+
+        width: 20%;
+        margin-right: 3%;
+        margin-left: 2%;
+        transition: 2s;
+
+    }
+
+    .jupiter:hover{
+
+        
+        transform:rotate(360deg)
+
+
+    }
+
+    .saturno{
+
+        width: 20%;
+        margin-right: 3%;
+        transition: 2s;
+
+    }
+
+    .saturno:hover{
+
+        
+        transform:rotate(360deg)
+
+
+    }
+
+    .urano{
+
+        width: 20%;
+        margin-right: 3%;
+        transition: 2s;
+
+    }
+
+    .urano:hover{
+
+        
+        transform:rotate(360deg)
+
+
+    }
+
+    .neptuno{
+
+        width: 20%;
+        margin-right: 3%;
+        transition: 2s;
+
+    }
+
+    .neptuno:hover{
+
+        
+        transform:rotate(360deg)
+
+
+    }
+
+   

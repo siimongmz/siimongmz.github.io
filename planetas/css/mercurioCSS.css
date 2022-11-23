@@ -1,0 +1,123 @@
+*{
+
+    scrollbar-width: 0%;
+
+}
+
+
+h1{
+
+    font-size: 300%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    margin-top: 0px;
+    margin-bottom: 0%;
+    border:solid;
+    border-width: 20%;
+    border-top: 10%;
+
+}
+
+h2{
+
+    font-size: 80%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(30, 30, 30);
+    margin-bottom: 3%;
+    margin-top: 0%;
+    
+
+}
+
+li{
+
+    display: inline-block;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    
+
+}
+
+ul{
+
+    background-color:white;
+    margin-top: 0%;
+
+}
+
+html{
+
+    background-image: url(../../imagenes/fondo1.jpg);
+    background-size: cover;
+    
+
+}
+
+.volver{
+
+    width: 80px;
+    float:left;
+    float: bottom;
+    
+
+}
+
+.titulo{
+
+    background-color:rgb(30, 30, 30);
+
+}
+
+p{
+
+    color: white;
+    font-size: 200%;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    animation: entrada 2s;
+}
+
+.info{
+
+    margin-bottom: 25%;
+
+}
+
+table{
+
+    border: 5px solid;
+    border-color: white;
+    margin: 0 auto;
+
+}
+
+td{
+
+    font-size: 300%;
+    text-align: center;
+    color: white;
+    border: 5px solid;
+
+
+}
+
+tr{
+
+    border: 5px solid;
+    color: white;
+
+
+}
+
+
+
+@keyframes entrada{
+    from{
+        margin-top: 100%;
+    }
+    to{
+        margin-top: 0%;
+    }
+}
